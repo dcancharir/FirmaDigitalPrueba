@@ -1,0 +1,11 @@
+F:\Tutos\FirmarPfd\FirmarPfd\bin\Debug\FirmarPfd.exe.config
+F:\Tutos\FirmarPfd\FirmarPfd\bin\Debug\FirmarPfd.exe
+F:\Tutos\FirmarPfd\FirmarPfd\bin\Debug\FirmarPfd.pdb
+F:\Tutos\FirmarPfd\FirmarPfd\bin\Debug\BouncyCastle.Crypto.dll
+F:\Tutos\FirmarPfd\FirmarPfd\bin\Debug\itextsharp.dll
+F:\Tutos\FirmarPfd\FirmarPfd\bin\Debug\itextsharp.xml
+F:\Tutos\FirmarPfd\FirmarPfd\obj\Debug\FirmarPfd.csprojAssemblyReference.cache
+F:\Tutos\FirmarPfd\FirmarPfd\obj\Debug\FirmarPfd.csproj.CoreCompileInputs.cache
+F:\Tutos\FirmarPfd\FirmarPfd\obj\Debug\FirmarPfd.csproj.CopyComplete
+F:\Tutos\FirmarPfd\FirmarPfd\obj\Debug\FirmarPfd.exe
+F:\Tutos\FirmarPfd\FirmarPfd\obj\Debug\FirmarPfd.pdb
